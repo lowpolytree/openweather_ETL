@@ -1,0 +1,22 @@
+CITIES = [
+    "New York",
+    "London",
+    "Tokyo",
+    "Paris",
+    "Berlin",
+    "Sydney",
+    "Toronto",
+    "Moscow",
+    "Cape Town",
+    "Beijing",
+    "Mexico City",
+    "Mumbai",
+    "Istanbul",
+    "Buenos Aires",
+    "Cairo",
+    "Dubai",
+    "Bangkok",
+    "Singapore",
+    "Seoul",
+    "Los Angeles"
+]
